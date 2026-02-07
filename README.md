@@ -14,10 +14,5 @@ Hi, I’m Rachana B N <br><br>I’m an MCA student specializing in Artificial In
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rachana20&theme=shadow_green&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=rachana20&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
