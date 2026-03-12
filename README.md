@@ -197,10 +197,6 @@ Docker
 Anaconda  
 Hugging Face Spaces
 
-# 📈 GitHub Activity
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=rachanabn20&theme=react-dark)
-
 
 # 🌐 Connect
 
