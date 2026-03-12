@@ -163,7 +163,7 @@ Low-resource language AI
 # 💻 Tech Stack
 
 ### Programming
-Python • C • C++
+Python 
 
 ### Machine Learning
 PyTorch  
@@ -191,33 +191,16 @@ Matplotlib
 
 ### Dev Tools
 Git  
-GitHub  
+GitHub(CI/CD)
 MLflow  
+Docker
 Anaconda  
-
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=rachanabn20&theme=shadow_green&show_icons=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=rachanabn20&theme=shadow_green)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rachanabn20&layout=compact&theme=shadow_green)
-
----
+Hugging Face Spaces
 
 # 📈 GitHub Activity
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=rachanabn20&theme=react-dark)
 
----
-
-# 🏆 GitHub Achievements
-
-![](https://github-profile-trophy.vercel.app/?username=rachanabn20&theme=matrix&margin-w=10)
-
----
 
 # 🌐 Connect
 
