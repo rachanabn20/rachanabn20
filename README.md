@@ -5,7 +5,7 @@ AI Engineer • NLP Researcher • LLM & RAG Systems Developer
 </p>
 
 <p align="center">
-Exploring how machines understand language, emotion and context — not just data.
+Exploring how machines understand language, emotion and context - not just data.
 </p>
 
 ---
