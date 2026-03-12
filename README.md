@@ -1,18 +1,246 @@
-Hi, I’m Rachana B N <br><br>I’m an MCA student specializing in Artificial Intelligence, Natural Language Processing, and Computer Vision.<br>My curiosity lies in how machines can understand human language, emotion, and context — not just data.<br><br>I’ve worked on projects ranging from Kannada-specific transformer models (KasturiBERT) to real-time video analysis, hope speech detection, and AI-driven pharmaceutical data extraction.<br><br>I enjoy building systems that are research-oriented, meaningful, and human-centered, and I’m especially interested in language technologies for low-resource and regional languages.<br><br>When I’m not training models, I’m usually thinking about better questions to ask them
+<h1 align="center">Hi 👋 I'm Rachana B N</h1>
 
+<p align="center">
+AI Engineer • NLP Researcher • LLM & RAG Systems Developer
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/rachana-nagaraju-9b3385369) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Rachana B N) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rachananagaraju20@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rachana20&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rachana20&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rachana20&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rachana20&theme=shadow_green&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+Exploring how machines understand language, emotion and context — not just data.
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rachana20&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Artificial+Intelligence+Researcher;NLP+Engineer;LLM+and+RAG+Systems+Developer;Multilingual+AI+Researcher;Open+Source+Contributor&center=true&width=600&height=45">
+</p>
+
+---
+
+# 🧠 About Me
+
+I’m an AI engineer and researcher focused on **Natural Language Processing, Large Language Models, and multilingual AI systems**.
+
+My work explores how AI can better understand **low-resource and regional languages**, especially in multilingual and code-mixed environments.
+
+I enjoy building **research-driven AI systems** that combine:
+
+• Transformer architectures  
+• Retrieval-Augmented Generation (RAG)  
+• Multilingual NLP  
+• Computer Vision pipelines  
+
+My research contributions include **multiple publications in international shared tasks and workshops**, including:
+
+**FIRE • RANLP • IberLEF • DravidianLangTech**
+
+---
+
+# 🚀 Featured AI Systems
+
+## 🤖 AI Research Paper Assistant
+
+AI system that allows users to **upload research papers and query them using natural language**.
+
+Architecture
+
+PDF Upload → Text Chunking → Embeddings → Vector Database → Retrieval → LLM Response
+
+Tech Stack
+
+Python  
+FastAPI  
+ChromaDB  
+Sentence Transformers  
+LLaMA  
+
+Live Demo  
+https://rachanaBN-research-paper-assistant.hf.space/app
+
+Repository  
+https://github.com/rachanabn20/genai-research-assistant
+
+---
+
+## 🔬 KasturiBERT
+
+Syllable-aware tokenizer designed for **Kannada language transformer models**.
+
+The project explores better tokenization strategies for **Dravidian languages**, improving representation learning in multilingual NLP models.
+
+Highlights
+
+• preserves Kannada linguistic structure  
+• designed for low-resource NLP  
+• compatible with transformer pipelines  
+
+Repository  
+https://github.com/rachanabn20/KasturiBERT-Tokenizer
+
+---
+
+## 🧩 WizKlub AI Chatbot
+
+Conversational chatbot built to support **interactive learning and automated responses**.
+
+The system demonstrates how conversational AI can be used to assist users by answering questions, guiding learning interactions, and automating common queries.
+
+Features
+
+• Natural language query handling  
+• Interactive conversation flow  
+• Automated educational responses  
+• Scalable chatbot backend logic  
+
+Repository  
+https://github.com/rachanabn20/wizklub-chatbot
+
+---
+
+## 💊 Intelligent Pharma Context Engine
+
+AI pipeline for **drug detection and verification from pharmaceutical data**.
+
+Pipeline
+
+Image detection → Drug recognition → Database validation
+
+
+Technologies
+
+YOLO  
+Computer Vision  
+NLP entity matching  
+
+Repository  
+https://github.com/rachanabn20/The-Intelligent-Pharma-Context-Engine
+
+---
+
+## 🎥 Real-Time Video Analysis using AI
+
+Computer vision system designed for **real-time anomaly detection in video streams**.
+
+Technologies
+
+OpenCV  
+PyTorch  
+CUDA  
+
+Repository  
+https://github.com/rachanabn20/Real-Time-Video-Analysis-Using-AI
+
+---
+
+# 📚 Research Publications
+
+My research focuses on **multilingual NLP and low-resource language AI**.
+
+Selected works include:
+
+• Labeling Misinformation Types in South Indian Languages — FIRE  
+• Model Fusion for Bengali-English Code-Mixed Information Retrieval — FIRE  
+• Word-Level Language Identification in Dravidian Languages  
+• Multimodal Hate Speech Detection in Memes  
+• Hope Speech Detection in English and Spanish  
+• Structured Highlight Generation in Scientific Literature  
+
+Google Scholar  
+https://scholar.google.com/citations?user=qIwyQWsAAAAJ
+
+---
+
+# 🧠 Research Interests
+
+Multilingual NLP  
+Code-mixed language processing  
+Large Language Models  
+Transformer architectures  
+Scientific document understanding  
+Low-resource language AI  
+
+---
+
+# 💻 Tech Stack
+
+### Programming
+Python • C • C++
+
+### Machine Learning
+PyTorch  
+TensorFlow  
+Scikit-learn  
+
+### NLP & LLM
+Transformers  
+Sentence Transformers  
+RAG systems  
+Vector databases  
+
+### Computer Vision
+OpenCV  
+CUDA  
+
+### Backend
+FastAPI  
+SQL  
+
+### Data Science
+Pandas  
+NumPy  
+Matplotlib  
+
+### Dev Tools
+Git  
+GitHub  
+MLflow  
+Anaconda  
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=rachanabn20&theme=shadow_green&show_icons=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=rachanabn20&theme=shadow_green)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rachanabn20&layout=compact&theme=shadow_green)
+
+---
+
+# 📈 GitHub Activity
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=rachanabn20&theme=react-dark)
+
+---
+
+# 🏆 GitHub Achievements
+
+![](https://github-profile-trophy.vercel.app/?username=rachanabn20&theme=matrix&margin-w=10)
+
+---
+
+# 🌐 Connect
+
+LinkedIn  
+https://www.linkedin.com/in/rachana-nagaraju-9b3385369
+
+GitHub  
+https://github.com/rachanabn20
+
+Portfolio  
+https://rachanabn20.github.io/rachana-portfolio/
+
+AI Research Assistant Demo  
+https://rachanaBN-research-paper-assistant.hf.space/app
+
+Google Scholar  
+https://scholar.google.com/citations?user=qIwyQWsAAAAJ
+
+Email  
+rachananagaraju920@gmail.com
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=rachanabn20&color=blue)
+
+
